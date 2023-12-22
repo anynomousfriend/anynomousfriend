@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anynomousfriend
 - 👀 I’m interested in 1s and 0s
-- 🌱 I’m currently learning Python, HTML, CSS, javascript, linux tools
+- 🌱 I’m currently learning Python, HTML, CSS, javascript and linux tools
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
