@@ -29,7 +29,7 @@ Strategic developer focused on building high-performance, scalable systems at th
 | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) | ![Vyper](https://img.shields.io/badge/Vyper-3776ab?style=for-the-badge&logo=python&logoColor=white) | ![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=npm&logoColor=black) | ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white) |
 | ![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=npm&logoColor=white) | ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E529A?style=for-the-badge&logo=ethereum&logoColor=white) | ![EVM](https://img.shields.io/badge/EVM-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) | ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=ethereum&logoColor=white) |
 
-**Expertise**: Gas optimization • Security auditing • DeFi protocols • MEV optimization • Token standards (ERC-20, ERC-721, ERC-1155) • Layer 2 solutions (Qubic, Arbitrum, Optimism)
+**Expertise**: Gas optimization • Security auditing • DeFi protocols • MEV optimization • Token standards (ERC-20, ERC-721, ERC-1155) • Ethereum,Sui, Qubic • Layer 2 solutions (Arbitrum, Optimism)
 
 ---
 
