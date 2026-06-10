@@ -22,4 +22,4 @@
 
 ## 🔗 Connect
 
-[GitHub](https://github.com/anynomousfriend) • [X (Twitter)](https://x.com/SsubhankarX)
+[Portfolio](https://subhankarchoudhury.vercel.app/) • [X (Twitter)](https://x.com/SsubhankarX)
