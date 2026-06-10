@@ -89,9 +89,8 @@ Strategic developer focused on building high-performance, scalable systems at th
 
 | | | | |
 |---|---|---|---|
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) | ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white) |
-| ![ESLint](https://img.shields.io/badge/ESLint-4B3241?style=for-the-badge&logo=eslint&logoColor=white) | ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) | ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white) |
-| ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white) | | |
+(https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) | ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white) |
+| | |
 
 **Expertise**: Version control • Code quality & linting • Unit & integration testing • Documentation • Community contribution • Advanced text editing with Neovim & Emacs
 
