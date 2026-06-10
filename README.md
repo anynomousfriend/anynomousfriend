@@ -90,7 +90,7 @@ Strategic developer focused on building high-performance, scalable systems at th
 | | | | |
 |---|---|---|---|
 | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) | ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white) |
-| | |
+|
 ---
 
 ## 💡 **Core Competencies**
